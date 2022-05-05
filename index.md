@@ -3,9 +3,10 @@ title: ANC_FINAL_PROJECT
 ---
 
 ## Contributors:
+
 | Names | Aniruddha Anand Damle | Prakriti Biswas | Aditya Shrikant Kaduskar |
 |-------|-----------------------|-----------------|--------------------------|
-| email | adamle5@asu.edu       | pbiswa12@asu.edu| akaduska@asu.edu         |
+| Email | adamle5@asu.edu       | pbiswa12@asu.edu| akaduska@asu.edu         |
 | ASU ID| 1222585013            | 1222851266      | 1222545896               |
 
 ## Introduction:

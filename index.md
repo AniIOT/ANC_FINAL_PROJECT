@@ -22,5 +22,8 @@ Using Smartphones in the Wild' by Qin Zhou et al., 2020[1]. We attempt to replic
 * [Identification](/04_Software/04_Release/Gait-Recognition/02_identification/identification.md): Use these files to do gait identification. Click on the link to learn more.
 * [Authentication](/04_Software/04_Release/Gait-Recognition/03_authentication/authentication.md): Use these files to do gait authentication. Click on the link to learn more.
 
+### Dataset
+* Datasets can be found [here](https://onedrive.live.com/?authkey=%21APJZLtdpd%5FJQ1Ck&id=8B12BDBA699C6D2B%219501&cid=8B12BDBA699C6D2B).
+
 ### References
 [1] Q. Zou, Y. Wang, Q. Wang, Y. Zhao, and Q. Li, “Deep Learning-Based Gait Recognition Using Smartphones in the Wild,” IEEE Transactions on Information Forensics and Security, vol. 15. pp. 3197–3212, 2020 [Online]. Available: http://dx.doi.org/10.1109/tifs.2020.2985628

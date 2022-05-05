@@ -22,6 +22,9 @@ Using Smartphones in the Wild' by Qin Zhou et al., 2020[1]. We attempt to replic
 * [Identification](/04_Software/04_Release/Gait-Recognition/02_identification/identification.md): Use these files to do gait identification. Click on the link to learn more.
 * [Authentication](/04_Software/04_Release/Gait-Recognition/03_authentication/authentication.md): Use these files to do gait authentication. Click on the link to learn more.
 
+### Author's GitHub
+* [Gait-Recognition-Using-Smartphones](https://github.com/qinnzou/Gait-Recognition-Using-Smartphones)
+
 ### Dataset
 * Datasets can be found [here](https://onedrive.live.com/?authkey=%21APJZLtdpd%5FJQ1Ck&id=8B12BDBA699C6D2B%219501&cid=8B12BDBA699C6D2B).
 

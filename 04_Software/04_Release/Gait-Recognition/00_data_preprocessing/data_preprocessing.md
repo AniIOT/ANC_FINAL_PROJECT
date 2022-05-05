@@ -2,6 +2,10 @@
 title: Data Pre-Processing
 ---
 
+### Files:
+* "dataset_formatting.ipynb" is the code for pre-processing your own data
+* Use your own dataset created with AndroSensor app
+
 ### How to use the codes:
 * Step 1: Write your file path in the function call to open data path
 * Step 2: Check your data 

@@ -14,10 +14,8 @@ Using Smartphones in the Wild' by Qin Zhou et al., 2020. We attempt to replicate
 
 <img src="https://media.giphy.com/media/Ejl1GWbk00HtkxH40h/giphy.gif" width="400"/>
 
-### Add all documents to the appropriate sub-folders in ANC_FINAL_PROJECT\01_Documents\
-e.g. Research papers will be added in ANC_FINAL_PROJECT\Documents\02_Research_Papers\
-
-### Add all code files in sub-folders titled with your name in ANC_FINAL_PROJECT\04_Software\
-e.g. xyz should put their code in ANC_FINAL_PROJECT\04_Software\##_xyz\
-
-### Final merged code will be kept in ANC_FINAL_PROJECT\04_Software\04_Release\
+### Final Code files
+[Data Preprocessing](/04_Software/04_Release/Gait-Recognition/00_data_preprocessing/data_preprocessing.md)
+[Data Extraction](/04_Software/04_Release/Gait-Recognition/01_gait_extraction/gait_extraction.md)
+[Identification](/04_Software/04_Release/Gait-Recognition/02_identification/identification.md)
+[Authentication](/04_Software/04_Release/Gait-Recognition/03_authentication/authentication.md)

@@ -2,6 +2,10 @@
 title: Gait Extraction
 ---
 
+### Files:
+* "tf_seg_new.ipynb" is the data extraction network based on tensorflow
+* Use Datasets 7 & 8
+
 ### How to use the codes:
 * Step 1: Enter the path of your preprocessed file if you want to use your own dataset
 * Step 2: Run the code

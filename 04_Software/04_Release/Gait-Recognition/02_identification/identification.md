@@ -2,6 +2,11 @@
 title: Identification
 ---
 
+### Files:
+* "CNN-LSTM.py" is a CNN+LSTM method used for identification
+* "CNN.py" is a CNN method used for identification
+* "lstm_fix.py" is a CNN+LSTMfix method used for identification
+
 ### How to use the codes:
 * Step 1: Enter your training dataset path on line 131 (*Note: Folder name will be train/inertial signals)
 * Step 2: Enter your testing dataset path on line 134 (*Note: Folder name will be test/inertial signals)
